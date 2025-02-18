@@ -1,0 +1,1 @@
+This repository demonstrates a common Perl error involving the comparison of undefined values using the eq operator. The bug.pl file shows the incorrect approach, and bugSolution.pl presents the correct solution.  Using defined() to check if a variable has a value is crucial to avoid unexpected behavior and logic errors.
